@@ -13,9 +13,9 @@ public class Employee {
 		this.employeeAddress = employeeAddress;
 	}
 	
-	public static Employee createEmployeeDetails(long employeeID, String name, int empAge, String address) {
+	public static Employee createEmployee(long employeeID, String name, int empAge, String address) {
 
-		return new Employee(employeeID, name, empAge, address);
+		return new Employee(employeeID, name, empAge, address);*/
 
 	}
 
